@@ -42,8 +42,8 @@ const aboutCar = {
 
 }
 
-// aboutCar.caclTime()
-// aboutCar.show()
+aboutCar.caclTime()
+aboutCar.show()
 
 
 
